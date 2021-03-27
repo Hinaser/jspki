@@ -1,0 +1,22 @@
+{
+  "name": "jspki",
+  "version": "0.0.0-beta.0",
+  "main": "./index.js",
+  "author": "Izumi Hoshino <rindo.hinase@gmail.com>",
+  "license": "MIT",
+  "description": "work in progress",
+  "homepage": "https://github.com/Hinaser/jspki",
+  "keywords": [
+    "crypt",
+    "crypto",
+    "cipher",
+    "rsa",
+    "public key",
+    "private key"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hinaser/jspki.git"
+  },
+  "bugs": "https://github.com/Hinaser/jspki/issues"
+}
